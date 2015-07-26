@@ -6,6 +6,7 @@ class HelloCSharp
 	{
 		Console.WriteLine ("Hello, C#!");
 		Console.WriteLine ("I am a student in Telerik Academy.");
-		Console.WriteLine ("My name is Dessy.");
+		Console.WriteLine ("9 - Nine");
+		Console.ReadLine ();
 	}
 }
