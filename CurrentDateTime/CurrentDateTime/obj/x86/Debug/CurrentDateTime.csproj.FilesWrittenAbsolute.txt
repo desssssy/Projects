@@ -1,0 +1,5 @@
+/Users/desssssy1/Projects/CurrentDateTime/CurrentDateTime/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/desssssy1/Projects/CurrentDateTime/CurrentDateTime/bin/Debug/CurrentDateTime.exe.mdb
+/Users/desssssy1/Projects/CurrentDateTime/CurrentDateTime/bin/Debug/CurrentDateTime.exe
+/Users/desssssy1/Projects/CurrentDateTime/CurrentDateTime/obj/x86/Debug/CurrentDateTime.exe
+/Users/desssssy1/Projects/CurrentDateTime/CurrentDateTime/obj/x86/Debug/CurrentDateTime.exe.mdb

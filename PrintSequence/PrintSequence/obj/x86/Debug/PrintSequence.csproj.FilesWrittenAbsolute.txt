@@ -1,0 +1,5 @@
+/Users/desssssy1/Projects/PrintSequence/PrintSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/desssssy1/Projects/PrintSequence/PrintSequence/bin/Debug/PrintSequence.exe.mdb
+/Users/desssssy1/Projects/PrintSequence/PrintSequence/bin/Debug/PrintSequence.exe
+/Users/desssssy1/Projects/PrintSequence/PrintSequence/obj/x86/Debug/PrintSequence.exe
+/Users/desssssy1/Projects/PrintSequence/PrintSequence/obj/x86/Debug/PrintSequence.exe.mdb

@@ -1,0 +1,5 @@
+/Users/desssssy1/Projects/LongSequence/LongSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/desssssy1/Projects/LongSequence/LongSequence/bin/Debug/LongSequence.exe.mdb
+/Users/desssssy1/Projects/LongSequence/LongSequence/bin/Debug/LongSequence.exe
+/Users/desssssy1/Projects/LongSequence/LongSequence/obj/x86/Debug/LongSequence.exe
+/Users/desssssy1/Projects/LongSequence/LongSequence/obj/x86/Debug/LongSequence.exe.mdb
