@@ -1,0 +1,5 @@
+/Users/desssssy1/Projects/PrintFirstLastNames/PrintFirstLastNames/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/desssssy1/Projects/PrintFirstLastNames/PrintFirstLastNames/bin/Debug/PrintFirstLastNames.exe.mdb
+/Users/desssssy1/Projects/PrintFirstLastNames/PrintFirstLastNames/bin/Debug/PrintFirstLastNames.exe
+/Users/desssssy1/Projects/PrintFirstLastNames/PrintFirstLastNames/obj/x86/Debug/PrintFirstLastNames.exe
+/Users/desssssy1/Projects/PrintFirstLastNames/PrintFirstLastNames/obj/x86/Debug/PrintFirstLastNames.exe.mdb

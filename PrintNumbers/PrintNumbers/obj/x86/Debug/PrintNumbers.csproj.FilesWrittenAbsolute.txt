@@ -1,0 +1,5 @@
+/Users/desssssy1/Projects/PrintNumbers/PrintNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/desssssy1/Projects/PrintNumbers/PrintNumbers/bin/Debug/PrintNumbers.exe.mdb
+/Users/desssssy1/Projects/PrintNumbers/PrintNumbers/bin/Debug/PrintNumbers.exe
+/Users/desssssy1/Projects/PrintNumbers/PrintNumbers/obj/x86/Debug/PrintNumbers.exe
+/Users/desssssy1/Projects/PrintNumbers/PrintNumbers/obj/x86/Debug/PrintNumbers.exe.mdb
