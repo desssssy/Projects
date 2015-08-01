@@ -27,12 +27,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ComparingFloats", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BankAccountData", "BankAccountData\11.BankAccountData.csproj", "{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.PrintTheASCIITable", "PrintTheASCIITable\14.PrintTheASCIITable.csproj", "{026D267D-A3B3-4DC2-A360-E8DD239B7249}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026D267D-A3B3-4DC2-A360-E8DD239B7249}.Debug|x86.ActiveCfg = Debug|x86
+		{026D267D-A3B3-4DC2-A360-E8DD239B7249}.Debug|x86.Build.0 = Debug|x86
+		{026D267D-A3B3-4DC2-A360-E8DD239B7249}.Release|x86.ActiveCfg = Release|x86
+		{026D267D-A3B3-4DC2-A360-E8DD239B7249}.Release|x86.Build.0 = Release|x86
 		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Debug|x86.ActiveCfg = Debug|x86
 		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Debug|x86.Build.0 = Debug|x86
 		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Release|x86.ActiveCfg = Release|x86
