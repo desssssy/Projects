@@ -1,19 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclareVariables", "DeclareVariables\DeclareVariables.csproj", "{D9F3EE97-845B-4F4E-891E-05A02AF605E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DeclareVariables", "DeclareVariables\01.DeclareVariables.csproj", "{D9F3EE97-845B-4F4E-891E-05A02AF605E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatОrDouble", "FloatОrDouble\FloatОrDouble.csproj", "{5071C4B1-EA1C-48E3-8A53-D6A197212D27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FloatОrDouble", "FloatОrDouble\02.FloatОrDouble.csproj", "{5071C4B1-EA1C-48E3-8A53-D6A197212D27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableInHexadecimalFormat", "VariableInHexadecimalFormat\VariableInHexadecimalFormat.csproj", "{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.VariableInHexadecimalFormat", "VariableInHexadecimalFormat\03.VariableInHexadecimalFormat.csproj", "{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeCharacter", "UnicodeCharacter\UnicodeCharacter.csproj", "{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.UnicodeCharacter", "UnicodeCharacter\04.UnicodeCharacter.csproj", "{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanVariable", "BooleanVariable\BooleanVariable.csproj", "{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BooleanVariable", "BooleanVariable\05.BooleanVariable.csproj", "{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndObjects", "StringsAndObjects\StringsAndObjects.csproj", "{697EC70F-4675-42DA-8301-724A7D900F29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StringsAndObjects", "StringsAndObjects\06.StringsAndObjects.csproj", "{697EC70F-4675-42DA-8301-724A7D900F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QoutesInStrings", "QoutesInStrings\QoutesInStrings.csproj", "{28D41AB3-1B01-4127-BE36-16AD4600DFE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.QoutesInStrings", "QoutesInStrings\07.QoutesInStrings.csproj", "{28D41AB3-1B01-4127-BE36-16AD4600DFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.IsoscelesTriangle", "IsoscelesTriangle\08.IsoscelesTriangle.csproj", "{E917A660-11F9-41A5-8ECC-B5DC7224A239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ExchangeVariableValues", "ExchangeVariableValues\09.ExchangeVariableValues.csproj", "{544278C7-5BCE-4296-AF28-9A5CFAD7380F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.EmployeeData", "EmployeeData\10.EmployeeData.csproj", "{E32412D4-B384-45DF-98D4-C19999BEB62A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +43,10 @@ Global
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Debug|x86.Build.0 = Debug|x86
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Release|x86.ActiveCfg = Release|x86
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Release|x86.Build.0 = Release|x86
+		{544278C7-5BCE-4296-AF28-9A5CFAD7380F}.Debug|x86.ActiveCfg = Debug|x86
+		{544278C7-5BCE-4296-AF28-9A5CFAD7380F}.Debug|x86.Build.0 = Debug|x86
+		{544278C7-5BCE-4296-AF28-9A5CFAD7380F}.Release|x86.ActiveCfg = Release|x86
+		{544278C7-5BCE-4296-AF28-9A5CFAD7380F}.Release|x86.Build.0 = Release|x86
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Debug|x86.ActiveCfg = Debug|x86
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Debug|x86.Build.0 = Debug|x86
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Release|x86.ActiveCfg = Release|x86
@@ -49,5 +59,13 @@ Global
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Debug|x86.Build.0 = Debug|x86
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Release|x86.ActiveCfg = Release|x86
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Release|x86.Build.0 = Release|x86
+		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Debug|x86.ActiveCfg = Debug|x86
+		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Debug|x86.Build.0 = Debug|x86
+		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Release|x86.ActiveCfg = Release|x86
+		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Release|x86.Build.0 = Release|x86
+		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Debug|x86.ActiveCfg = Debug|x86
+		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Debug|x86.Build.0 = Debug|x86
+		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Release|x86.ActiveCfg = Release|x86
+		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
