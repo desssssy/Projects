@@ -1,1 +1,15 @@
-﻿<Properties StartupItem="DeclareVariables/DeclareVariables.csproj" />
+﻿<Properties>
+  <StartupItems />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooleanVariable/BooleanVariable.cs">
+    <Files>
+      <File FileName="VariableInHexadecimalFormat/VariableHexadecimal.cs" Line="15" Column="2" />
+      <File FileName="UnicodeCharacter/Unicode.cs" Line="13" Column="32" />
+      <File FileName="BooleanVariable/BooleanVariable.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

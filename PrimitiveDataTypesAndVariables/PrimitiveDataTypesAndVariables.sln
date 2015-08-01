@@ -9,12 +9,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableInHexadecimalFormat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeCharacter", "UnicodeCharacter\UnicodeCharacter.csproj", "{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanVariable", "BooleanVariable\BooleanVariable.csproj", "{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndObjects", "StringsAndObjects\StringsAndObjects.csproj", "{697EC70F-4675-42DA-8301-724A7D900F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QoutesInStrings", "QoutesInStrings\QoutesInStrings.csproj", "{28D41AB3-1B01-4127-BE36-16AD4600DFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Debug|x86.ActiveCfg = Debug|x86
+		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Debug|x86.Build.0 = Debug|x86
+		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Release|x86.ActiveCfg = Release|x86
+		{1387BAD2-5E4E-421A-BE9F-4A8AA78DDD6D}.Release|x86.Build.0 = Release|x86
+		{28D41AB3-1B01-4127-BE36-16AD4600DFE4}.Debug|x86.ActiveCfg = Debug|x86
+		{28D41AB3-1B01-4127-BE36-16AD4600DFE4}.Debug|x86.Build.0 = Debug|x86
+		{28D41AB3-1B01-4127-BE36-16AD4600DFE4}.Release|x86.ActiveCfg = Release|x86
+		{28D41AB3-1B01-4127-BE36-16AD4600DFE4}.Release|x86.Build.0 = Release|x86
 		{5071C4B1-EA1C-48E3-8A53-D6A197212D27}.Debug|x86.ActiveCfg = Debug|x86
 		{5071C4B1-EA1C-48E3-8A53-D6A197212D27}.Debug|x86.Build.0 = Debug|x86
 		{5071C4B1-EA1C-48E3-8A53-D6A197212D27}.Release|x86.ActiveCfg = Release|x86
@@ -23,6 +37,10 @@ Global
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Debug|x86.Build.0 = Debug|x86
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Release|x86.ActiveCfg = Release|x86
 		{53865A2C-6B8E-4B69-BDC8-314FF2254AFA}.Release|x86.Build.0 = Release|x86
+		{697EC70F-4675-42DA-8301-724A7D900F29}.Debug|x86.ActiveCfg = Debug|x86
+		{697EC70F-4675-42DA-8301-724A7D900F29}.Debug|x86.Build.0 = Debug|x86
+		{697EC70F-4675-42DA-8301-724A7D900F29}.Release|x86.ActiveCfg = Release|x86
+		{697EC70F-4675-42DA-8301-724A7D900F29}.Release|x86.Build.0 = Release|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Debug|x86.ActiveCfg = Debug|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Debug|x86.Build.0 = Debug|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Release|x86.ActiveCfg = Release|x86

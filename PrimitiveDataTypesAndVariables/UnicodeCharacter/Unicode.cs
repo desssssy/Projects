@@ -11,6 +11,5 @@ class UnicodeCharacter
 	{
 		char variable = '\u002A';
 		Console.WriteLine (variable);
-		
 	}
 }
