@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ExchangeVariableValues",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.EmployeeData", "EmployeeData\10.EmployeeData.csproj", "{E32412D4-B384-45DF-98D4-C19999BEB62A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.NullValuesArithmetic", "NullValuesArithmetic\12.NullValuesArithmetic.csproj", "{DAC94058-849A-498C-9229-184793FF848D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ComparingFloats", "ComparingFloats\13.ComparingFloats.csproj", "{69CFBAEF-0247-4771-9B3A-544E36268DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BankAccountData", "BankAccountData\11.BankAccountData.csproj", "{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -51,6 +57,10 @@ Global
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Debug|x86.Build.0 = Debug|x86
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Release|x86.ActiveCfg = Release|x86
 		{697EC70F-4675-42DA-8301-724A7D900F29}.Release|x86.Build.0 = Release|x86
+		{69CFBAEF-0247-4771-9B3A-544E36268DAA}.Debug|x86.ActiveCfg = Debug|x86
+		{69CFBAEF-0247-4771-9B3A-544E36268DAA}.Debug|x86.Build.0 = Debug|x86
+		{69CFBAEF-0247-4771-9B3A-544E36268DAA}.Release|x86.ActiveCfg = Release|x86
+		{69CFBAEF-0247-4771-9B3A-544E36268DAA}.Release|x86.Build.0 = Release|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Debug|x86.ActiveCfg = Debug|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Debug|x86.Build.0 = Debug|x86
 		{AC03F7EC-0A72-47CF-B136-4AD60C17F3A2}.Release|x86.ActiveCfg = Release|x86
@@ -59,6 +69,10 @@ Global
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Debug|x86.Build.0 = Debug|x86
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Release|x86.ActiveCfg = Release|x86
 		{D9F3EE97-845B-4F4E-891E-05A02AF605E8}.Release|x86.Build.0 = Release|x86
+		{DAC94058-849A-498C-9229-184793FF848D}.Debug|x86.ActiveCfg = Debug|x86
+		{DAC94058-849A-498C-9229-184793FF848D}.Debug|x86.Build.0 = Debug|x86
+		{DAC94058-849A-498C-9229-184793FF848D}.Release|x86.ActiveCfg = Release|x86
+		{DAC94058-849A-498C-9229-184793FF848D}.Release|x86.Build.0 = Release|x86
 		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Debug|x86.ActiveCfg = Debug|x86
 		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Debug|x86.Build.0 = Debug|x86
 		{E32412D4-B384-45DF-98D4-C19999BEB62A}.Release|x86.ActiveCfg = Release|x86
@@ -67,5 +81,9 @@ Global
 		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Debug|x86.Build.0 = Debug|x86
 		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Release|x86.ActiveCfg = Release|x86
 		{E917A660-11F9-41A5-8ECC-B5DC7224A239}.Release|x86.Build.0 = Release|x86
+		{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}.Debug|x86.ActiveCfg = Debug|x86
+		{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}.Debug|x86.Build.0 = Debug|x86
+		{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}.Release|x86.ActiveCfg = Release|x86
+		{F140B50D-1869-40F8-AE25-9BCA9B61B3A0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

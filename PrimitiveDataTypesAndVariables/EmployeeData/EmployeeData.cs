@@ -20,30 +20,18 @@ class EmployeeData
 		string firstName;
 		string lastName;
 		byte age;
-		bool isFeemail;
+		char gender;
 		long PersonalIDNumber;
 		int EmployeeIDNumber;
 
 		firstName = "Dessyslava";
 		lastName = "Wasseva";
 		age = 33;
-		isFeemail = true;
+		gender = 'f';
 		PersonalIDNumber = 8306112507;
 		EmployeeIDNumber = 27560000;
 
-		Console.WriteLine ("First Name: {0} \nLast Name: {1}\nAge: {2}",firstName,lastName,age);
-
-		if (isFeemail == true) {
-			Console.WriteLine ("Gender: f");
-		} 
-
-		else {
-
-			Console.WriteLine ("Gender: m");
-
-		}
-
-		Console.WriteLine ("Personal ID Number: {0}\nEmployee ID Number: {1}",PersonalIDNumber,EmployeeIDNumber);
+		Console.WriteLine ("First Name: {0} \nLast Name: {1}\nAge: {2}\nGender: {3}\nPersonal ID Number: {4}\nEmployee ID Number: {5}",firstName,lastName,age,gender,PersonalIDNumber,EmployeeIDNumber);
 	
 	}
 }
