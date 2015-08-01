@@ -1,5 +1,4 @@
-﻿<Properties>
-  <StartupItems />
+﻿<Properties StartupItem="14.PrintTheASCIITable.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
