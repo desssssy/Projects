@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GravitationOnTheMoon", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DivideBy7And5", "DivideBy7And5\03.DivideBy7And5.csproj", "{7E1E233A-1712-4918-9776-EFA98BE961A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Rectangles", "Rectangles\04.Rectangles.csproj", "{354E63DA-22C2-4A30-951E-84FA916E71B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ThirdDigit", "ThirdDigit\05.ThirdDigit.csproj", "{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -17,6 +21,10 @@ Global
 		{201A6D65-9D78-4132-ADCF-CB2D51846F27}.Debug|x86.Build.0 = Debug|x86
 		{201A6D65-9D78-4132-ADCF-CB2D51846F27}.Release|x86.ActiveCfg = Release|x86
 		{201A6D65-9D78-4132-ADCF-CB2D51846F27}.Release|x86.Build.0 = Release|x86
+		{354E63DA-22C2-4A30-951E-84FA916E71B8}.Debug|x86.ActiveCfg = Debug|x86
+		{354E63DA-22C2-4A30-951E-84FA916E71B8}.Debug|x86.Build.0 = Debug|x86
+		{354E63DA-22C2-4A30-951E-84FA916E71B8}.Release|x86.ActiveCfg = Release|x86
+		{354E63DA-22C2-4A30-951E-84FA916E71B8}.Release|x86.Build.0 = Release|x86
 		{35C5908F-0F5B-4C07-88B8-9C57E218E3C7}.Debug|x86.ActiveCfg = Debug|x86
 		{35C5908F-0F5B-4C07-88B8-9C57E218E3C7}.Debug|x86.Build.0 = Debug|x86
 		{35C5908F-0F5B-4C07-88B8-9C57E218E3C7}.Release|x86.ActiveCfg = Release|x86
@@ -25,5 +33,9 @@ Global
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Debug|x86.Build.0 = Debug|x86
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Release|x86.ActiveCfg = Release|x86
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Release|x86.Build.0 = Release|x86
+		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Debug|x86.ActiveCfg = Debug|x86
+		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Debug|x86.Build.0 = Debug|x86
+		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Release|x86.ActiveCfg = Release|x86
+		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -17,7 +17,6 @@ class DivideBy7And5
 
 
 		Console.WriteLine (canBeDividedBy7And5);
-
 			
 	}
 }
