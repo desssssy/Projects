@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ThirdDigit", "ThirdDigit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FourDigitNumber", "FourDigitNumber\06.FourDigitNumber.csproj", "{E276F6AE-3C98-470B-8478-C1E0B474FA87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PointInACircle", "PointInACircle\07.PointInACircle.csproj", "{D13097F5-486D-4C61-BCDC-93901D88A108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -35,6 +37,10 @@ Global
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Debug|x86.Build.0 = Debug|x86
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Release|x86.ActiveCfg = Release|x86
 		{7E1E233A-1712-4918-9776-EFA98BE961A9}.Release|x86.Build.0 = Release|x86
+		{D13097F5-486D-4C61-BCDC-93901D88A108}.Debug|x86.ActiveCfg = Debug|x86
+		{D13097F5-486D-4C61-BCDC-93901D88A108}.Debug|x86.Build.0 = Debug|x86
+		{D13097F5-486D-4C61-BCDC-93901D88A108}.Release|x86.ActiveCfg = Release|x86
+		{D13097F5-486D-4C61-BCDC-93901D88A108}.Release|x86.Build.0 = Release|x86
 		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Debug|x86.ActiveCfg = Debug|x86
 		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Debug|x86.Build.0 = Debug|x86
 		{DD32D0F9-8D11-443E-A9BB-4A14F66050F7}.Release|x86.ActiveCfg = Release|x86
